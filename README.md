@@ -11,25 +11,30 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+Very simple and minimal setup to use, and differentiate logs with colorful output.
 
-## Features
-
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+Show some ❤️ and star the repo to support the project
 
 ## Getting started
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+Just need to add this library into your pubspec.yaml and start using it.
+```dart
+KLogger.i("Test Data Info");
+```
+
+## Output
+
+![](https://raw.githubusercontent.com/shivams1110/k_logger/main/artist/logger_output.png)
+
 
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
-
 ```dart
-const like = 'sample';
+KLogger.i("Test Data Info");
+KLogger.v("Test Data Verbose");
+KLogger.w("Test Data warning");
+KLogger.d("Test Data debug");
+KLogger.e("Test Data error");
 ```
 
 ## Additional information
