@@ -1,7 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:k_logger/k_logger.dart';
-
 void main() {
   test('adds one to input values', () {
     // final calculator = Calculator();
