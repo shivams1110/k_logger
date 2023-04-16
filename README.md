@@ -44,9 +44,3 @@ Please file any issues, bugs or feature request as an issue on our [GitHub](http
 #### Want to contribute
 If you would like to contribute to the package (e.g. by solving a bug or adding a cool new feature), send us your pull request.
 
-<!--
-## Additional information
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
--->
