@@ -1,3 +1,5 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+* Initial release
+* Colorful debug logs.
+* No need to worry about remove logs for production, this package is automatically handle.
